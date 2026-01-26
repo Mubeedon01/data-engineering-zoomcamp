@@ -1,0 +1,11 @@
+*.csv
+*.gz
+*.parquet
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+env/
+pgadmin_data/
+postgres_data/
